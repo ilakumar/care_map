@@ -1,0 +1,16 @@
+.venntooltip {
+  position: absolute;
+  text-align: center;
+  font-size: 24px;
+  width: 128px;
+  height: 16px;
+  color: #000;
+  padding: 2px;
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+}
+
+.venn-intersection {
+  font-size: 0;
+}
