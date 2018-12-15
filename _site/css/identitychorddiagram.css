@@ -16,6 +16,10 @@ stroke-width: .25px;
 display: none;
 }
 
+#circle:hover text.highlightedlabel {
+  font-size: 24px;
+}
+
 svg {
 padding-top: 100px;
 overflow: visible;
